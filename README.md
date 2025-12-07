@@ -1,3 +1,12 @@
+Assembler para microcontrolador FEUC
+
+Este projeto é um fork do projeto Generic-Assembler, que permite a a configuração de um assembler específico através de parâmetros.
+Foi necessário fazer algumas modificações para que o assembler atendesse as minhas necessidades, e devido a isso, se tornou mais fácil realizar um fork do projeto original.
+
+Agradeço ao autor original por disponibilizar esta ferramenta. Todos os direitos são reservados a ele.
+
+
+Original README
 Generic-Assembler
 =================
 
